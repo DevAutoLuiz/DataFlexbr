@@ -652,7 +652,7 @@ export default function Home() {
                 <div className="flex flex-col items-center justify-center text-center mt-2">
                   <div className="flex items-baseline gap-1">
                     <span className="text-2xl font-semibold text-df-muted">R$</span>
-                    <span className="text-6xl font-extrabold text-white tracking-tight">18.400</span>
+                    <span className="text-6xl font-extrabold text-white tracking-tight">13.500</span>
                   </div>
                   <div className="mt-2.5">
                     <span className="text-xs font-bold uppercase tracking-widest text-df-red bg-df-red/10 px-3 py-1 rounded-md border border-df-red/20">

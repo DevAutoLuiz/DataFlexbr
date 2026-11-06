@@ -82,6 +82,7 @@ services:
       PG_META_DB_PASSWORD: ${POSTGRES_PASSWORD}
 
   web:
+    pull_policy: build
     build:
       context: .
       dockerfile: Dockerfile
